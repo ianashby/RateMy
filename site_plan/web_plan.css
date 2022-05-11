@@ -39,6 +39,10 @@ body {
     background-color: #2F2FA2;
 }
 
+img{
+max-width: 500px;
+}
+
 h1,
 h2,
 h3,
