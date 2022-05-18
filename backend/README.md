@@ -1,7 +1,7 @@
 # Django Backend
 
 #### Sources
-* 
+* [tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j)
 * 
 
 

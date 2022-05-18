@@ -22,8 +22,9 @@ def generate_unique_code():
 
 # Create your models here.
 class Room(models.Model):
-    school = models.CharField(max_length=50, default="", unique=True)
-    department = models.CharField(max_length=100, default= "", unique=True)
+    code = models.CharField(max_length=100, default= "", unique=True)
+    school = models.CharField(max_length=50, default="", unique=False)
+    department = models.CharField(max_length=100, default= "", unique=False)
     course = models.CharField(max_length=100, default= "", unique=True)
     submit = models.BooleanField(null= False, default= False)
     votes_to_skip = models.IntegerField(null= False, default= 1)
