@@ -9,9 +9,10 @@
 
 .header-grid img {
     grid-column: 1 / 1;
-    grid-row: 1/1;
+    grid-row: 2;
     border-radius: 5px;
     outline-color: #242582;
+    max-height: 100px;
 }
 .header-grid nav{
     grid-column: 2 / 5;
@@ -35,6 +36,10 @@
 
 body {
     background-color: #2F2FA2;
+}
+
+img{
+max-width: 500px;
 }
 
 h1,
