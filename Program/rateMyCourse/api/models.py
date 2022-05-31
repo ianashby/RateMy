@@ -8,7 +8,7 @@ def generate_unique_code():
     each course
     """
     length = 8
-
+    
     while True:
         #Generate a random code that is k length
         code = ''.join(random.choices(string.ascii_uppercase, k=length))

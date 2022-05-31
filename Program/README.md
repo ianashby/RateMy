@@ -26,3 +26,9 @@
 
 ### Run the serve
 * python .\manage.py runserver
+
+
+
+### Setting up react
+* [Watch this video](https://www.youtube.com/watch?v=eauREi0vwB0)
+* Node extension pact
