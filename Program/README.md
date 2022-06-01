@@ -32,3 +32,6 @@
 ### Setting up react
 * [Watch this video](https://www.youtube.com/watch?v=eauREi0vwB0)
 * Node extension pact
+* npm i webpack webpack-cli --save-dev
+* npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev 
+* npm i react react-dom --save-dev
