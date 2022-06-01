@@ -38,5 +38,5 @@
 * npm install --save react@16.13.0 react-dom@16.13.0
 * npm install @material-ui/core
 * npm install @babel/plugin-proposal-class-properties (for async)
-* npm install react-router-dom
-* npm install @material-ui/icons
+* npm install react-router-dom  (allow us to rerout our pages)
+* npm install @material-ui/icons  
