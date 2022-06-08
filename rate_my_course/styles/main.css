@@ -153,3 +153,58 @@ footer {
     filter: invert(1);
     width: 36px;
 }
+
+/* second page specific */
+
+
+#header-school-input {
+    display: flex;
+    justify-content: center;
+}
+
+#header-school {
+    background-color: rgb(240, 240, 240);
+    border: none;
+    border-radius: 35px;
+    width: 350px;
+    height: 50px;
+    margin: 20px;
+}
+
+#header-school-input {
+    display: flex;
+    justify-content: center;
+    
+}
+@media (max-width: 950px) {
+    .header{
+        flex-direction: column;
+    }
+    #header-school {
+        width: 500px;
+    }
+}
+@media (max-width: 600px) {
+    .header{
+        display: grid;
+       grid-template-columns: 1fr;
+    }
+
+    #logo{
+        grid-row: 1/2;
+        
+    }
+    
+    #register-login {
+        grid-row: 2/3;
+        position: relative;
+        right: 0px;
+        top: 0px;
+        margin: auto;
+        
+    }
+    #header-school {
+        width: auto;
+    }
+   
+}
