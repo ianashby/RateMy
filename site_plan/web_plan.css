@@ -1,6 +1,5 @@
 
 
-
 .header-grid {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -161,6 +160,16 @@ nav a:hover {
 	color: #2F2FA2;
     border-radius: 10px;
 }
+
+main img {
+    width: 400px;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
 @media (min-width: 37.5em) {
 	nav {
 		flex-direction: row;
@@ -175,3 +184,4 @@ nav a:hover {
 		font-size: 1.3rem;
 	}
 }
+
