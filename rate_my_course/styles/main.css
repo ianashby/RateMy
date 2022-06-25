@@ -105,6 +105,16 @@ main h1 {
     text-align: center;
 }
 
+main h2 {
+    color: black;
+    /* font-weight: 900; */
+    text-align: center;
+}
+
+button{
+    align-self: center;
+}
+
 #school-input {
     display: flex;
     justify-content: center;
