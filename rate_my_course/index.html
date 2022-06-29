@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="/rate_my_course/styles/main.css">
+  <script src="/rate_my_course/scripts/managedata.js"></script>
   <script defer src="/rate_my_course/scripts/app.js"></script>
   <title>Rate My Course</title>
 </head>
@@ -13,10 +14,12 @@
 <body>
   <header>
     <div class="header">
-      <a href="index.html"><div id="logo">
-        <img src="/rate_my_course/images/mortarboard.svg" alt="RateMy Logo">
-        <h1>Rate My Course</h1>
-    </div></a>
+      <a href="index.html">
+        <div id="logo">
+          <img src="/rate_my_course/images/mortarboard.svg" alt="RateMy Logo">
+          <h1>Rate My Course</h1>
+        </div>
+      </a>
       <div id="register-login">
         <button id="login">Login</button>
         <button id="register">Sign Up</button>
@@ -26,7 +29,25 @@
   <main>
     <h1>Search For Your School</h1>
     <div id="school-input">
-      <label for="school"><input type="text" name="school" id="school" placeholder="Enter Your School"></label>
+      <label for="school">
+        <input id="school" type="text" placeholder="Enter Your School">
+        <button id="search">Search</button>
+      </label>
+      <script>
+
+
+
+        searchbutton.onclick = function () {
+          const searchbutton = document.getElementById('search');
+          const school = document.getElementById('school');
+          console.log(school);
+          if (school) {
+            localstorage.setItem('school', school);
+            location.reload();
+          }
+        }
+      </script>
+
     </div>
     <div class="info">
       <div id="info1">
