@@ -1,103 +1,49 @@
-// managedata.js will be loaded on every page.
-// it has several functions:
-// 1. searchClass: search for a class in the json file
-//     - takes in a class code, name, and school
-//     - brings user to secondpage.html
-//     - returns and displays the class information and  ratings
-// 2. createClass: create a class in the json file
-//     - takes in a class code, name, and school
-//     - creates a new class in the json file
-//     - pushes class code, name, and school t0 rateClass function
+// managedata.js - manage data
+// 1. searchClass: search for a class in the json file no input
+//     - takes in a class code, name, and school from page
+//     - if you have a match, it brings user to secondpage.html
+//     - if you don't have a match, datapush
+//     - then it brings user to add_course.html
+// 2. addcourse: create a class in the json file
+//     - datapush
 //     - brings you to rate_course.html
 // 3. rateClass: rate an existing class in the json file
-//     - takes in a class code, name, and school from createClass
-//     - puts overall,workload,tudoravailability, and interesting data into the database
-// 4. indexpush
-//     - className is taken from the input field
-//     - user is taken to add_course.html
-//     - className is put into the input field
+//     - puts overall,workload,tudoravailability, and interesting data into the json file
+//     - takes in a class code, name, and school from local storage and puts it into the json file
+//     - clears local storage
+//     - brings you to secondpage.html
+// 4. datapush
+//     - className schoolName, classCode, overall, workload, tudorAvailability, and interesting will be stored in local storage if available
 
-
-
-// searchClass: search for a class in the json file
-searchClass = function (classCode, className, school) {
-    // get the json file
-    var jsonFile = JSON.parse(localStorage.getItem("jsonFile"));
+function searchClass(){
+    // clear the local storage
+    localStorage.clear();
+    // get the class code, name, and school from the page
+    var classCode = document.getElementById("classCode").value;
+    var className = document.getElementById("className").value;
+    var school = document.getElementById("school").value;
     // search for the class
     for (var i = 0; i < jsonFile.length; i++) {
         if (jsonFile[i].classCode == classCode && jsonFile[i].className == className && jsonFile[i].school == school) {
+            // store the class code, name, and school in local storage
+            datapush()
             // if the class is found, bring user to secondpage.html
             window.location.href = "secondpage.html";
-            // display the class information and ratings
-            document.getElementById("classCode").innerHTML = jsonFile[i].classCode;
-            document.getElementById("className").innerHTML = jsonFile[i].className;
-            document.getElementById("school").innerHTML = jsonFile[i].school;
-            document.getElementById("overall").innerHTML = jsonFile[i].overall;
-            document.getElementById("workload").innerHTML = jsonFile[i].workload;
-            document.getElementById("tudorAvailability").innerHTML = jsonFile[i].tudorAvailability;
-            document.getElementById("interesting").innerHTML = jsonFile[i].interesting;
-            // display the ratings
-            document.getElementById("overallRating").innerHTML = jsonFile[i].overallRating;
-            document.getElementById("workloadRating").innerHTML = jsonFile[i].workloadRating;
-            document.getElementById("tudorAvailabilityRating").innerHTML = jsonFile[i].tudorAvailabilityRating;
-            document.getElementById("interestingRating").innerHTML = jsonFile[i].interestingRating;
-            // break out of the loop
+            
             break;
-            // if the class is not found, create a new class with blank ratings
+        // if the class is not found, bring user to add_course.html
         } else if (i == jsonFile.length - 1) {
-            // create a new class
-            createClass(classCode, className, school);
-            break;
+            datapush()
+            window.location.href = "add_course.html";
         }
     }
 }
 
-// createClass:if class doesnt exist in json file, create a class in the json file with blank ratings
-//    - takes in a class code, name, and school
-//    - creates a new class in the json file if there isnt one already
-//    - if there is one already, redirect user to rate_course.html
-//    - pushes class code, name, and school t0 rateClass function
 
-function createClass(classCode, className, school) {
-    // get the json file
-    var jsonFile = JSON.parse(localStorage.getItem("jsonFile"));
-    // search for the class
-    for (var i = 0; i < jsonFile.length; i++) {
-        if (jsonFile[i].classCode == classCode && jsonFile[i].className == className && jsonFile[i].school == school) {
-            // if the class is found, bring user to rate_course.html
-            window.location.href = "rate_course.html";
-            // push class code, name, and school to rateClass function
-            rateClass(classCode, className, school);
-            break;
-            // if the class is not found, create a new class with blank ratings
-        } else if (i == jsonFile.length - 1) {
-            // create a new class
-            var newClass = {
-                classCode: classCode,
-                className: className,
-                school: school,
-                overall: "",
-                workload: "",
-                tudorAvailability: "",
-                interesting: "",
-                overallRating: "",
-                workloadRating: "",
-                tudorAvailabilityRating: "",
-                interestingRating: ""
-            }
-            // push new class to json file
-            jsonFile.push(newClass);
-            // push class code, name, and school to rateClass function
-            rateClass(classCode, className, school);
-            // bring user to rate_course.html
-            window.location.href = "rate_course.html";
-            // display classCode, className, and school
-            document.getElementById("classCode").innerHTML = classCode;
-            document.getElementById("className").innerHTML = className;
-            document.getElementById("school").innerHTML = school;
-            break;
-        }
-    }
+function addCourse(){
+    datapush();
+    // take user to rate_course.html
+    window.location.href = "rate_course.html";
 }
 
 // rateCourse: rate an existing class in the json file

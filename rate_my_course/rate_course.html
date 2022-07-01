@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/rate_my_course/styles/main.css">
     <script defer src="/rate_my_course/scripts/app.js"></script>
-    <script src="/rate_my_course/scripts/managedata.js"></script>
+    <!-- <script src="/rate_my_course/scripts/managedata.js"></script> -->
     <title>Rate My Course</title>
 </head>
 
@@ -30,7 +30,7 @@
     <main>
         <div class="form">
             <h1>Rate Course</h1>
-            <h2><span id="course"></span></h2>
+            <h2><span id="courseCode"></span> "<span id="courseName"></span>" at <span id="universityName"></span></h2>
             <form action="thankyou.html" method="GET" autocomplete="on">
                 <label for="overall">
                     Overall Rating
@@ -61,6 +61,54 @@
                 <input type="submit" id="submit" value="Submit">
 
             </form>
+            <script>
+                // take universityName, courseCode, courseName from local storage and put them in the span tags
+                var universityName = localStorage.getItem("universityName");
+                var courseCode = localStorage.getItem("courseCode");
+                var courseName = localStorage.getItem("courseName");
+                document.getElementById("universityName").innerHTML = universityName;
+                document.getElementById("courseCode").innerHTML = courseCode;
+                document.getElementById("courseName").innerHTML = courseName;
+                
+                // create function that is triggered when submit button is clicked
+                document.getElementById("submit").addEventListener("click", proccessForm);
+                function proccessForm(event) {
+                    event.preventDefault();
+                    // get values from form
+                    var overall = document.getElementById("overall").value;
+                    var workload = document.getElementById("workload").value;
+                    var tudoravailability = document.getElementById("tudoravailability").value;
+                    var interesting = document.getElementById("interesting").value;
+                    var comment = document.getElementById("comment").value;
+                    // get values from local storage
+                    var universityName = localStorage.getItem("universityName");
+                    var courseCode = localStorage.getItem("courseCode");
+                    var courseName = localStorage.getItem("courseName");
+                    storejson(universityName, courseCode, courseName, overall, workload, tudoravailability, interesting, comment);
+                    
+                }
+               
+                // create function that stores the data in a json file RateMyClassData.json
+                function storejson(universityName, courseCode, courseName, overall, workload, tudoravailability, interesting, comment);{
+                    var json = {
+                        "universityName": universityName,
+                        "courseCode": courseCode,
+                        "courseName": courseName,
+                        "overall": overall,
+                        "workload": workload,
+                        "tudoravailability": tudoravailability,
+                        "interesting": interesting,
+                        "comment": comment
+                    };
+                    var jsonString = JSON.stringify(json);
+                    var jsonFile = "rateMyClassData.json";
+                    var jsonFile = new File([jsonString], jsonFile, {type: "text/plain"});
+                    saveAs(jsonFile);
+                    // redirect to thankyou.html
+                    // window.location.href = "thankyou.html";
+                }
+
+                </script>
         </div>
         
     </main>

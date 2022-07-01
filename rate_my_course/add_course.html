@@ -29,7 +29,7 @@
     <main>
         <div class="form">
             <h1>Add Course</h1>
-            <form action="rate_course.html" method="GET" autocomplete="on">
+            <form method="proccessForm" autocomplete="on">
                 <label for="universityName">
                     College/University
                     <input type="text" id="universityName" name="universityName" placeholder="Brigham Young University of Idaho" required>
@@ -50,6 +50,28 @@
 
             </form>
         </div>
+        <script>
+        // take school from local storage and put it in the form
+        document.getElementById("universityName").value = localStorage.getItem("universityName");
+        document.getElementById("courseName").value = localStorage.getItem("courseName");
+        document.getElementById("courseCode").value = localStorage.getItem("courseCode");
+        // create function that is triggered when submit button is clicked
+        document.getElementById("submit").addEventListener("click", proccessForm);
+        function proccessForm(event) {
+            event.preventDefault();
+            // get values from form
+            var universityName = document.getElementById("universityName").value;
+            var courseName = document.getElementById("courseName").value;
+            var courseCode = document.getElementById("courseCode").value;
+            // store values in local storage
+            localStorage.setItem("universityName", universityName);
+            localStorage.setItem("courseName", courseName);
+            localStorage.setItem("courseCode", courseCode);
+            // redirect to add_course.html
+            window.location.href = "rate_course.html";
+        }
+       
+        </script>
     </main>
 
     <footer>

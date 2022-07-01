@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="/rate_my_course/styles/main.css">
-  <script src="/rate_my_course/scripts/managedata.js"></script>
+  <!-- <script src="/rate_my_course/scripts/managedata.js"></script> -->
   <script defer src="/rate_my_course/scripts/app.js"></script>
   <title>Rate My Course</title>
 </head>
@@ -30,22 +30,22 @@
     <h1>Search For Your School</h1>
     <div id="school-input">
       <label for="school">
-        <input id="school" type="text" placeholder="Enter Your School">
+        <input id="universityName" type="text" placeholder="Enter Your School">
         <button id="search">Search</button>
       </label>
       <script>
-
-
-
-        searchbutton.onclick = function () {
-          const searchbutton = document.getElementById('search');
-          const school = document.getElementById('school');
-          console.log(school);
-          if (school) {
-            localstorage.setItem('school', school);
-            location.reload();
-          }
-        }
+        // clear local storage when the page is refreshed
+        window.onload = function() {
+          localStorage.clear();
+        };
+        // event listener for the search button id=search
+          document.getElementById('search').addEventListener('click', function() {
+          // get the value of the input id=school
+          var school = document.getElementById('universityName').value;
+          window.localStorage.setItem('universityName', school);
+          // redirect to the add_course.html page
+          window.location.href = 'add_course.html';
+        });
       </script>
 
     </div>
