@@ -31,7 +31,7 @@
         <div class="form">
             <h1>Rate Course</h1>
             <h2><span id="courseCode"></span> "<span id="courseName"></span>" at <span id="universityName"></span></h2>
-            <form action="thankyou.html" method="GET" autocomplete="on">
+            <form action="#" method="#" autocomplete="on">
                 <label for="overall">
                     Overall Rating
                     <input type="range" min="1" max="100" value="50" class="slider" id="overall">
@@ -69,7 +69,7 @@
                 document.getElementById("universityName").innerHTML = universityName;
                 document.getElementById("courseCode").innerHTML = courseCode;
                 document.getElementById("courseName").innerHTML = courseName;
-                
+
                 // create function that is triggered when submit button is clicked
                 document.getElementById("submit").addEventListener("click", proccessForm);
                 function proccessForm(event) {
@@ -85,32 +85,67 @@
                     var courseCode = localStorage.getItem("courseCode");
                     var courseName = localStorage.getItem("courseName");
                     storejson(universityName, courseCode, courseName, overall, workload, tudoravailability, interesting, comment);
-                    
-                }
-               
-                // create function that stores the data in a json file RateMyClassData.json
-                function storejson(universityName, courseCode, courseName, overall, workload, tudoravailability, interesting, comment);{
-                    var json = {
-                        "universityName": universityName,
-                        "courseCode": courseCode,
-                        "courseName": courseName,
-                        "overall": overall,
-                        "workload": workload,
-                        "tudoravailability": tudoravailability,
-                        "interesting": interesting,
-                        "comment": comment
-                    };
-                    var jsonString = JSON.stringify(json);
-                    var jsonFile = "rateMyClassData.json";
-                    var jsonFile = new File([jsonString], jsonFile, {type: "text/plain"});
-                    saveAs(jsonFile);
-                    // redirect to thankyou.html
-                    // window.location.href = "thankyou.html";
+
                 }
 
-                </script>
+                // create function that stores the data to nodejs server
+                function storenode(universityName, courseCode, courseName, overall, workload, tudoravailability, interesting, comment) {
+                    var obj = {
+                        "university": []
+                    };
+                    obj.university.push({
+                        "university": [
+                            {
+                                "name": universityName,
+                                "class": [
+                                    {
+                                        "name": courseName,
+                                        "courseCode": courseCode,
+                                        "rating": [
+                                            {
+                                                "overall": overall,
+                                                "workload": workload,
+                                                "tudorAvailability": tudoravailability,
+                                                "interesting": interesting,
+                                                "comment": comment
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    });
+                    // store to node js server
+                    var xhr = new XMLHttpRequest();
+                    xhr.open("POST", "http://localhost:3000/rate_my_course/api/v1/courses", true);
+                    xhr.setRequestHeader("Content-Type", "application/json");
+                    xhr.send(JSON.stringify(obj));
+                }
+
+
+
+
+
+
+
+                    // console.log (obj);
+                    // var json = json.stringify(obj);
+                    // var fs = require('fs');
+                    // fs.writeFile('rateMyClassData.json', json, function (err) {
+                    //     if (err) {
+                    //         console.log(err);
+                    //     }
+                    // });
+                    // // redirect to thankyou.html
+                    // // window.location.href = "thankyou.html";
+
+
+
+
+
+            </script>
         </div>
-        
+
     </main>
 
     <footer>

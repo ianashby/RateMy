@@ -67,8 +67,46 @@
             localStorage.setItem("universityName", universityName);
             localStorage.setItem("courseName", courseName);
             localStorage.setItem("courseCode", courseCode);
-            // redirect to add_course.html
             window.location.href = "rate_course.html";
+            // obj.university.push({
+            //             "university": [
+            //                 {
+            //                     "name": universityName,
+            //                     "class": [
+            //                         {
+            //                             "name": courseName,
+            //                             "courseCode": courseCode,
+            //                             "rating": [
+            //                                 {
+            //                                     "overall": overall,
+            //                                     "workload": workload,
+            //                                     "tudorAvailability": tudoravailability,
+            //                                     "interesting": interesting,
+            //                                     "comment": comment
+            //                                 }
+            //                             ]
+            //                         }
+            //                     ]
+            //                 }
+            //             ]
+            //         });
+            // search for courseCode or CourseName in node js server http://localhost:3000/rate_my_course/api/v1/courses
+            // if course exists redirect to secondpage.html
+            // if course does not exist, redirect to rate_course.html
+            var xhr = new XMLHttpRequest();
+            // xhr.open("GET", "http://localhost:3000/rate_my_course/api/v1/courses");
+            // xhr.onload = function() {
+            //     if (xhr.status == 200) {
+            //         var courses = JSON.parse(xhr.responseText);
+            //         for (var i = 0; i < courses.length; i++) {
+            //             if (courses[i].courseCode == courseCode || courses[i].courseName == courseName) {
+            //                 window.location.href = "secondpage.html";
+            //             }
+            //         }
+            //         window.location.href = "rate_course.html";
+            //     }
+            // }
+            
         }
        
         </script>
