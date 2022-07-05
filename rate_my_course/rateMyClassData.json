@@ -16,6 +16,20 @@
                             }
                     ]
                     
+                },
+                {
+                    "name":"another class",
+                    "code": "cse 550",
+                    "rating":[
+                            {
+                            "overall": "5",
+                            "workload": "5",
+                            "tudorAvailability" : "5",
+                            "interesting": "5",
+                            "comment": "great class"
+                            }
+                    ]
+                    
                 }
             ]
             
