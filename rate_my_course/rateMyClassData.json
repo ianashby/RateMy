@@ -2,7 +2,7 @@
   "university": [
     {
       "name": "Brigham Young University",
-      "class": [
+      "courses": [
         {
           "name": "Applied Programming",
           "code": "CSE 310",
@@ -34,7 +34,7 @@
     {
       "name": "University of Utah",
       "code": "CS 120",
-      "class": [
+      "courses": [
         {
           "name": "Data Structures and Algorithms",
           "rating": [
