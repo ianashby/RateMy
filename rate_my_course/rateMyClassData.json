@@ -1,58 +1,53 @@
 {
-    "university":[
+  "university": [
+    {
+      "name": "Brigham Young University",
+      "courses": [
         {
-            "name":"Brigham Young University",
-            "class":[
-                {
-                    "name":"applied programming",
-                    "code": "cse 310",
-                    "rating":[
-                            {
-                            "overall": "5",
-                            "workload": "5",
-                            "tudorAvailability" : "5",
-                            "interesting": "5",
-                            "comment": "really engaging, loved the class"
-                            }
-                    ]
-                    
-                },
-                {
-                    "name":"another class",
-                    "code": "cse 550",
-                    "rating":[
-                            {
-                            "overall": "5",
-                            "workload": "5",
-                            "tudorAvailability" : "5",
-                            "interesting": "5",
-                            "comment": "great class"
-                            }
-                    ]
-                    
-                }
-            ]
-            
+          "name": "Applied Programming",
+          "code": "CSE 310",
+          "rating": [
+            {
+              "overall": "4.6",
+              "workload": "5",
+              "tudorAvailability": "2",
+              "interesting": "4",
+              "comment": "really engaging, loved the class"
+            }
+          ]
         },
         {
-            "name":"University of Utah",
-            "class":[
-                {
-                    "name":"applied programming",
-                    "rating":[
-                            {
-                            "overall": "5",
-                            "workload": "5",
-                            "tudorAvailability" : "5",
-                            "interesting": "5",
-                            "comment": "really engaging, loved the class"
-                            }
-                    ]
-                    
-                }
-            ]
-            
+          "name": "Machine Learning",
+          "code": "CSE 450",
+          "rating": [
+            {
+              "overall": "5",
+              "workload": "5",
+              "tudorAvailability": "5",
+              "interesting": "5",
+              "comment": "great class"
+            }
+          ]
         }
-        
-    ]
+      ]
+    },
+    {
+      "name": "University of Utah",
+      "courses": [
+        {
+          "name": "Data Structures and Algorithms",
+          "code": "CS 120",
+          "rating": [
+            {
+              "overall": "5",
+              "workload": "4",
+              "tudorAvailability": "2",
+              "interesting": "3",
+              "comment": "really engaging, loved the class"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
