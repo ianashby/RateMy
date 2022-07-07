@@ -33,6 +33,7 @@
     },
     {
       "name": "University of Utah",
+      "code": "CS 120",
       "class": [
         {
           "name": "Data Structures and Algorithms",
