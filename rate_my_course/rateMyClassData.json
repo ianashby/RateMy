@@ -4,21 +4,21 @@
       "name": "Brigham Young University",
       "class": [
         {
-          "name": "applied programming",
-          "code": "cse 310",
+          "name": "Applied Programming",
+          "code": "CSE 310",
           "rating": [
             {
-              "overall": "5",
+              "overall": "4.6",
               "workload": "5",
-              "tudorAvailability": "5",
-              "interesting": "5",
+              "tudorAvailability": "2",
+              "interesting": "4",
               "comment": "really engaging, loved the class"
             }
           ]
         },
         {
-          "name": "another class",
-          "code": "cse 550",
+          "name": "Machine Learning",
+          "code": "CSE 450",
           "rating": [
             {
               "overall": "5",
@@ -35,13 +35,13 @@
       "name": "University of Utah",
       "class": [
         {
-          "name": "applied programming",
+          "name": "Data Structures and Algorithms",
           "rating": [
             {
               "overall": "5",
-              "workload": "5",
-              "tudorAvailability": "5",
-              "interesting": "5",
+              "workload": "4",
+              "tudorAvailability": "2",
+              "interesting": "3",
               "comment": "really engaging, loved the class"
             }
           ]
