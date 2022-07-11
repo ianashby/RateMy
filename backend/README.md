@@ -46,7 +46,7 @@
 ### Template 
 * template (basic webpage where django takes over)
 * 
-*** The template is here so we are able to render it and where react will take control of ***
+***The template is here so we are able to render it and where react will take control of***
 
 ### runing the react
 * npm run dev
