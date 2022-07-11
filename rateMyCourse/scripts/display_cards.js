@@ -37,7 +37,7 @@ function displayCards(university) {
 
     // Create overall rating h3.
     let overallRating = document.createElement('h3');
-    overallRating.textContent = `Overall Rating: ${university.courses[0].rating[0].overall} / 5`;
+    overallRating.textContent = `Overall Rating: ${university.courses[i].rating[i].overall} / 5`;
     card.appendChild(overallRating);
 
     // Workload
