@@ -19,8 +19,10 @@ async function getData(requestURL) {
         // if the university name and course code match the JSON data, then display the data
 
         university.forEach(university => {
-            if (university.name == "University of Utah") {
-                displayCards(university);
+            if (university.name == "Brigham Young University" && university.code == "CSE 310") {
+                (university.courses.rating).forEach(rating => {
+                    displayCards(rating);
+                });
             } 
             
         });
@@ -37,27 +39,27 @@ function displayCards(university) {
 
     // Create overall rating h3.
     let overallRating = document.createElement('h3');
-    overallRating.textContent = `Overall Rating: ${university.courses[i].rating[i].overall} / 5`;
+    overallRating.textContent = `Overall Rating: ${university.courses.rating.overall} / 5`;
     card.appendChild(overallRating);
 
     // Workload
     let workload = document.createElement('h3');
-    workload.textContent = `Workload: ${university.courses[0].rating[0].workload} / 5`;
+    workload.textContent = `Workload: ${university.courses.rating.workload} / 5`;
     card.appendChild(workload);
 
     // Tudor Avalibility
     let tudorAvailability = document.createElement('h3');
-    tudorAvailability.textContent = `Tudor Availability: ${university.courses[0].rating[0].tudorAvailability}`;
+    tudorAvailability.textContent = `Tudor Availability: ${university.courses.rating.tudorAvailability}`;
     card.appendChild(tudorAvailability);
 
     // Interest Level
     let interestLevel = document.createElement('h3');
-    interestLevel.textContent = `Interest Level: ${university.courses[0].rating[0].interesting}`;
+    interestLevel.textContent = `Interest Level: ${university.courses.rating.interesting}`;
     card.appendChild(interestLevel);
 
     // Comments
     let comments = document.createElement('p');
-    comments.textContent = university.courses[0].rating[0].comment;
+    comments.textContent = university.courses.rating.comment;
     card.appendChild(comments);
 
     // Append card to the DOM.
