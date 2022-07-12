@@ -3883,7 +3883,29 @@
           "department": "Computer Science",
           "code": "CSE310",
           "name": "Applied Programming",
-          "rating": []
+          "rating": [
+            {
+              "overall": "4.6",
+              "workload": "5",
+              "tudorAvailability": "2",
+              "interesting": "4",
+              "comment": "Loved this class! The professor was very helpful and the class was well organized. I really enjoyed the class and the professor was very helpful. I would definitely take this class again."
+            },
+            {
+              "overall": "2",
+              "workload": "5",
+              "tudorAvailability": "2",
+              "interesting": "4",
+              "comment": "Not my favorite class. You cover some useful topics, but it all goes so fast! I didn't want to put in the work..."
+            },
+            {
+              "overall": "5",
+              "workload": "5",
+              "tudorAvailability": "2",
+              "interesting": "4",
+              "comment": "I learned a lot about programming. I really enjoyed the class and the professor was very helpful. I would definitely take this class again."
+            }
+          ]
         },
         {
       
