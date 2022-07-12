@@ -84,62 +84,12 @@
                     var universityName = localStorage.getItem("universityName");
                     var courseCode = localStorage.getItem("courseCode");
                     var courseName = localStorage.getItem("courseName");
-                    storejson(universityName, courseCode, courseName, overall, workload, tudoravailability, interesting, comment);
-
+                    // storejson(universityName, courseCode, courseName, overall, workload, tudoravailability, interesting, comment);
+                    // redirect to course page
+                    window.location.href = "/rate_my_course/thankyou.html";
                 }
 
-                // create function that stores the data to nodejs server
-                // function storenode(universityName, courseCode, courseName, overall, workload, tudoravailability, interesting, comment) {
-                //     var obj = {
-                //         "university": []
-                //     };
-                //     obj.university.push({
-                //         "university": [
-                //             {
-                //                 "name": universityName,
-                //                 "class": [
-                //                     {
-                //                         "name": courseName,
-                //                         "courseCode": courseCode,
-                //                         "rating": [
-                //                             {
-                //                                 "overall": overall,
-                //                                 "workload": workload,
-                //                                 "tudorAvailability": tudoravailability,
-                //                                 "interesting": interesting,
-                //                                 "comment": comment
-                //                             }
-                //                         ]
-                //                     }
-                //                 ]
-                //             }
-                //         ]
-                //     });
-                //     // store to node js server
-                //     var xhr = new XMLHttpRequest();
-                //     xhr.open("POST", "http://localhost:3000/rate_my_course/api/v1/courses", true);
-                //     xhr.setRequestHeader("Content-Type", "application/json");
-                //     xhr.send(JSON.stringify(obj));
-                // }
-
-
-
-
-
-
-
-                    // console.log (obj);
-                    // var json = json.stringify(obj);
-                    // var fs = require('fs');
-                    // fs.writeFile('rateMyClassData.json', json, function (err) {
-                    //     if (err) {
-                    //         console.log(err);
-                    //     }
-                    // });
-                    // // redirect to thankyou.html
-                    // // window.location.href = "thankyou.html";
-
-
+              
 
 
 
