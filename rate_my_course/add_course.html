@@ -8,17 +8,19 @@
     <link rel="stylesheet" href="/rate_my_course/styles/main.css">
     <script defer src="/rate_my_course/scripts/app.js"></script>
     <script src="/rate_my_course/scripts/managedata.js"></script>
-    
+
     <title>Rate My Course</title>
 </head>
 
 <body>
     <header>
         <div class="header">
-            <a href="index.html"><div id="logo">
-                <img src="/rate_my_course/images/mortarboard.svg" alt="RateMy Logo">
-                <h1>Rate My Course</h1>
-            </div></a>
+            <a href="index.html">
+                <div id="logo">
+                    <img src="/rate_my_course/images/mortarboard.svg" alt="RateMy Logo">
+                    <h1>Rate My Course</h1>
+                </div>
+            </a>
             <div id="register-login">
                 <button id="login">Login</button>
                 <button id="register">Sign Up</button>
@@ -32,7 +34,8 @@
             <form method="proccessForm" autocomplete="on">
                 <label for="universityName">
                     College/University
-                    <input type="text" id="universityName" name="universityName" placeholder="Brigham Young University of Idaho" required>
+                    <input type="text" id="universityName" name="universityName"
+                        placeholder="Brigham Young University of Idaho" required>
                 </label>
 
                 <label for="courseName">
@@ -45,35 +48,52 @@
                     <input type="text" id="courseCode" name="courseCode" placeholder="CSE310" required>
                 </label>
 
-                
+
                 <input type="submit" id="submit" value="Submit">
 
+
+                <!-- button to redirect -->
+                <button id="redirect">
+                    <a href="course_page.html"> Course Page</a>
+                </button>
             </form>
-            <!-- button to redirect -->
-            <button id="redirect">
-                <a href="course_page.html">Go to Course Page</a>
         </div>
         <script>
-        // take school from local storage and put it in the form
-        document.getElementById("universityName").value = localStorage.getItem("universityName");
-        document.getElementById("courseName").value = localStorage.getItem("courseName");
-        document.getElementById("courseCode").value = localStorage.getItem("courseCode");
-        // create function that is triggered when submit button is clicked
-        document.getElementById("submit").addEventListener("click", proccessForm);
-        function proccessForm(event) {
-            event.preventDefault();
-            // get values from form
-            var universityName = document.getElementById("universityName").value;
-            var courseName = document.getElementById("courseName").value;
-            var courseCode = document.getElementById("courseCode").value;
-            // store values in local storage
-            localStorage.setItem("universityName", universityName);
-            localStorage.setItem("courseName", courseName);
-            localStorage.setItem("courseCode", courseCode);
-            window.location.href = "rate_course.html";
-            
-        }
-       
+
+            document.getElementById("redirect").addEventListener("click", function () {
+                // get values from form
+                var universityName = document.getElementById("universityName").value;
+                var courseName = document.getElementById("courseName").value;
+                var courseCode = document.getElementById("courseCode").value;
+                // store values in local storage
+                localStorage.setItem("universityName", universityName);
+                localStorage.setItem("courseName", courseName);
+                localStorage.setItem("courseCode", courseCode);
+                // redirect to course_page.html
+                window.location.href = "course_page.html";
+            });
+
+
+            // take school from local storage and put it in the form
+            document.getElementById("universityName").value = localStorage.getItem("universityName");
+            document.getElementById("courseName").value = localStorage.getItem("courseName");
+            document.getElementById("courseCode").value = localStorage.getItem("courseCode");
+            // create function that is triggered when submit button is clicked
+            document.getElementById("submit").addEventListener("click", proccessForm);
+            function proccessForm(event) {
+                event.preventDefault();
+                // get values from form
+                var universityName = document.getElementById("universityName").value;
+                var courseName = document.getElementById("courseName").value;
+                var courseCode = document.getElementById("courseCode").value;
+                // store values in local storage
+                localStorage.setItem("universityName", universityName);
+                localStorage.setItem("courseName", courseName);
+                localStorage.setItem("courseCode", courseCode);
+                window.location.href = "rate_course.html";
+
+            }
+
         </script>
     </main>
 
