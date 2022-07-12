@@ -1,6 +1,6 @@
 // JSON File
 const requestURL =
-  "https://raw.githubusercontent.com/ianashby/RateMy/main/rate_my_course/rateMyClassData.json";
+  "https://raw.githubusercontent.com/ianashby/RateMy/main/rate_my_course/BYUData.json";
 
 // Query All Span ID's in the DOM
 const universityName = document.getElementById("university-name");
