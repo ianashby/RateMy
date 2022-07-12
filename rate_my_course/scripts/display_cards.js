@@ -1,15 +1,17 @@
 // JSON File
 const requestURL = "https://raw.githubusercontent.com/ianashby/RateMy/main/rate_my_course/BYUData.json";
 
-
+// Get items from local storage.
 var universityName = localStorage.getItem("universityName");
 var courseCode = localStorage.getItem("courseCode");
 var courseName = localStorage.getItem("courseName");
 
+// Fill DOM with right data from local storage.
 document.querySelector('#university-name').textContent = universityName;
 document.querySelector('#course-code').textContent = courseCode;
 document.querySelector('#course-name').textContent = courseName;
 
+// Get the data from the JSON file.
 async function getData(requestURL) {
   const response = await fetch(requestURL);
   if (response.ok) {
