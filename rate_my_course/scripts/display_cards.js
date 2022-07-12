@@ -1,19 +1,21 @@
 // JSON File
-const requestURL =
-  "https://raw.githubusercontent.com/ianashby/RateMy/main/rate_my_course/BYUData.json";
+const requestURL = "https://raw.githubusercontent.com/ianashby/RateMy/main/rate_my_course/BYUData.json";
 
-// Query All Span ID's in the DOM
-const universityName = document.getElementById("university-name");
-const courseCode = document.getElementById("course-code");
-const courseName = document.getElementById("course-name");
-const cardSection = document.querySelector(".ratings-cards");
+
+var universityName = localStorage.getItem("universityName");
+var courseCode = localStorage.getItem("courseCode");
+var courseName = localStorage.getItem("courseName");
+
+document.querySelector('#university-name').textContent = universityName;
+document.querySelector('#course-code').textContent = courseCode;
+document.querySelector('#course-name').textContent = courseName;
 
 async function getData(requestURL) {
   const response = await fetch(requestURL);
   if (response.ok) {
     const data = await response.json();
 
-    const university = data["university"];
+    const university = data["University"];
 
     // Loop through each university. 
     university.forEach((university) => {
@@ -26,6 +28,13 @@ async function getData(requestURL) {
             if (course.code == courseCode) {
                 course.rating.forEach((rating) => {
                     displayCards(rating);
+                    // get average of all ratings
+                    let average = 0;
+                    for (let i = 0; i < course.rating.length; i++) {
+                        average += parseFloat(course.rating[i].overall);
+                    }
+                    average = average / course.rating.length;
+                    document.querySelector('#average-rating').textContent = `Average Rating: ${average.toFixed(1)} / 5`;
             });
           }
         });
