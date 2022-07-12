@@ -1,0 +1,6306 @@
+{
+  "University":[
+    {
+      "name": "Brigham Young University - Idaho",
+      "courses": [
+        {
+          "department": "Accounting",
+          "code": "ACCTG180",
+          "name": "Survey of Accounting",
+          "rating": []
+        },
+        {
+          "department": "Accounting",
+          "code": "ACCTG201",
+          "name": "Financial Accounting",
+          "rating": []
+        },
+        {
+          "department": "Accounting",
+          "code": "ACCTG202",
+          "name": "Managerial Accounting",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG205",
+          "name": "Accounting Software",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG221R",
+          "name": "Volunteer Income Tax Assistance",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG233",
+          "name": "Spreadsheet Application",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG275",
+          "name": "Accounting Profession Exploration and Orientation",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG299R",
+          "name": "Special Projects",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG301",
+          "name": "Intermediate Financial Accounting I",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG302",
+          "name": "Intermediate Financial Accounting II",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG312",
+          "name": "Cost Accounting",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG321",
+          "name": "Income Taxation I",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG322",
+          "name": "Income Taxation II",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG333B",
+          "name": "Advanced Spreadsheet Application",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG344",
+          "name": "Auditing",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG398R",
+          "name": "Professional Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG403",
+          "name": "Advanced Accounting",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG440",
+          "name": "International Accounting",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG456",
+          "name": "Accounting Information Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Accounting",
+          "code": "ACCTG499",
+          "name": "Accounting Capstone",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS100",
+          "name": "Agriculture Orientation",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS105",
+          "name": "Entrepreneurship in Agribusiness",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS138",
+          "name": "Introduction to Agribusiness Leadership and Group Dynamics",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS147",
+          "name": "Introduction to International Agricultural Marketing",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS180A",
+          "name": "Economics and Budgeting Principles",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS180B",
+          "name": "Cash Accounting Concepts and Applications",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS197R",
+          "name": "Agribusiness Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS201",
+          "name": "Agricultural Financial Accounting",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS210",
+          "name": "Agricultural Economics",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS347",
+          "name": "Agricultural Marketing",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS398",
+          "name": "Occupational Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS410",
+          "name": "Agricultural Policy and Trade",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS420",
+          "name": "Agribusiness Operations Analysis",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS430",
+          "name": "Agricultural Price Analysis",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS435",
+          "name": "Agriculture Commodity Marketing",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS440",
+          "name": "Agribusiness Finance",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS450",
+          "name": "Agriculture Business Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Agribusiness",
+          "code": "AGBUS460",
+          "name": "Strategic Food and Agribusiness Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Agricultural Education",
+          "code": "AGED297",
+          "name": "Agriculture Education Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC125",
+          "name": "Agricultural Maintenance Welding",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC186",
+          "name": "GPS Applications in Agriculture",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC220",
+          "name": "Machinery Safety and Maintenance",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC230",
+          "name": "Agriculture Electrical Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC290R",
+          "name": "Individual Study",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC294",
+          "name": "Agriculture Fabrication",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC301",
+          "name": "Engine and Tractor Power",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC330",
+          "name": "Processing and Handling Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC360",
+          "name": "Fluid Power Technology",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC465",
+          "name": "Machinery and Power Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC486",
+          "name": "Precision Agriculture",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC489",
+          "name": "Technology Capstone 1",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC490R",
+          "name": "Technology Capstone",
+          "rating": []
+        },
+        {
+      
+          "department": "Agriculture Technology",
+          "code": "AGTEC491",
+          "name": "Technology Capstone 2",
+          "rating": []
+        },
+        {
+      
+          "department": "Agronomy",
+          "code": "AGRON301",
+          "name": "Soil Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Agronomy",
+          "code": "AGRON321",
+          "name": "Soil Fertility and Plant Nutrition",
+          "rating": []
+        },
+        {
+      
+          "department": "Agronomy",
+          "code": "AGRON325",
+          "name": "Agricultural Irrigation",
+          "rating": []
+        },
+        {
+      
+          "department": "Agronomy",
+          "code": "AGRON330",
+          "name": "Forage Crops",
+          "rating": []
+        },
+        {
+      
+          "department": "Agronomy",
+          "code": "AGRON425",
+          "name": "Soil Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Agronomy",
+          "code": "AGRON430",
+          "name": "Soil Taxonomy and Genesis",
+          "rating": []
+        },
+        {
+      
+          "department": "Agronomy",
+          "code": "AGRON435",
+          "name": "Crop Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Agronomy",
+          "code": "AGRON440",
+          "name": "Crop Physiology",
+          "rating": []
+        },
+        {
+      
+          "department": "Agronomy",
+          "code": "AGRON445",
+          "name": "Crop Advisor Certification",
+          "rating": []
+        },
+        {
+      
+          "department": "Agronomy",
+          "code": "AGRON460",
+          "name": "Plant Pathology",
+          "rating": []
+        },
+        {
+      
+          "department": "Agronomy",
+          "code": "AGRON470",
+          "name": "Agroecology",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS125",
+          "name": "Career Exploration in Animal Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS135",
+          "name": "Introduction to Meat Products",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS150",
+          "name": "Introduction to Animal Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS215",
+          "name": "Animal Anatomy and Physiology",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS215L",
+          "name": "Animal Anatomy and Physiology Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS220",
+          "name": "Feeds and Nutrition",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS234",
+          "name": "Veterinary Parasitology",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS239",
+          "name": "Introduction to Animal Biotechnology",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS247",
+          "name": "Animal Handling and Behavior",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS300",
+          "name": "Animal Science Seminar",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS315",
+          "name": "Animal Health and Diseases",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS330",
+          "name": "Artificial Insemination",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS330L",
+          "name": "Artificial Insemination Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS333",
+          "name": "Animal Genetics",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS336",
+          "name": "Animal Reproduction",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS340",
+          "name": "Horse Production",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS350",
+          "name": "Small Animal Production",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS355",
+          "name": "Principles of Meat Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS360",
+          "name": "Beef Production",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS365",
+          "name": "Applied Ruminant Nutrition",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS380",
+          "name": "Companion Animal Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS398R",
+          "name": "Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS425",
+          "name": "Advanced Animal Nutrition",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS430",
+          "name": "Applied Reproduction",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS465",
+          "name": "Processed Meats",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS490R",
+          "name": "Research Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Animal Science",
+          "code": "AS495",
+          "name": "Animal Science Capstone",
+          "rating": []
+        },
+        {
+      
+          "department": "Anthropology",
+          "code": "ANTH101",
+          "name": "Introduction to Cultural Anthropology",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS103",
+          "name": "Home Gardening",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS122",
+          "name": "Introduction to Plant Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS122",
+          "name": "Introduction to Plant Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS123",
+          "name": "Introduction to Plant Science Laboratory",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS220",
+          "name": "Introduction to Soils",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS220L",
+          "name": "Introduction to Soils Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS232",
+          "name": "Agriculture Sales and Merchandising",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS290R",
+          "name": "Special Problems",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS299R",
+          "name": "Seminar",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS312",
+          "name": "Alternative Cropping Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS339R",
+          "name": "APS Portfolio",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS350",
+          "name": "Plant Breeding and Genetics",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS397R",
+          "name": "Agronomy  Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS398R",
+          "name": "Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS412",
+          "name": "Integrated Pest Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS462",
+          "name": "Crop Insect Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS465",
+          "name": "Integrated Weed Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS490R",
+          "name": "Special Topics in Applied Plant Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Applied Plant Science",
+          "code": "APS497R",
+          "name": "Mentored Student Research",
+          "rating": []
+        },
+        {
+      
+          "department": "Arabic",
+          "code": "ARAB101",
+          "name": "Arabic I",
+          "rating": []
+        },
+        {
+      
+          "department": "Arabic",
+          "code": "ARAB102",
+          "name": "Arabic II",
+          "rating": []
+        },
+        {
+      
+          "department": "Architecture",
+          "code": "ARCH100",
+          "name": "Survey of Architecture and Construction",
+          "rating": []
+        },
+        {
+      
+          "department": "Architecture",
+          "code": "ARCH120",
+          "name": "Computer Aided Design I",
+          "rating": []
+        },
+        {
+      
+          "department": "Architecture",
+          "code": "ARCH180",
+          "name": "Presentation Graphics I",
+          "rating": []
+        },
+        {
+      
+          "department": "Architecture",
+          "code": "ARCH190",
+          "name": "Building Information Modeling I",
+          "rating": []
+        },
+        {
+      
+          "department": "Architecture",
+          "code": "ARCH201",
+          "name": "Architectural Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Architecture",
+          "code": "ARCH225",
+          "name": "Architectural Detailing",
+          "rating": []
+        },
+        {
+      
+          "department": "Architecture",
+          "code": "ARCH270",
+          "name": "Construction Documents",
+          "rating": []
+        },
+        {
+      
+          "department": "Architecture",
+          "code": "ARCH285",
+          "name": "Presentation Graphics II",
+          "rating": []
+        },
+        {
+      
+          "department": "Architecture",
+          "code": "ARCH290",
+          "name": "Building Information Modeling II",
+          "rating": []
+        },
+        {
+      
+          "department": "Architecture",
+          "code": "ARCH300",
+          "name": "Design and Construction Technology",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART101",
+          "name": "Introduction to the Visual Arts",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART102",
+          "name": "General Art-2D",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART106",
+          "name": "Freshman Art Orientation Seminar",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART107",
+          "name": "Design and Color",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART110",
+          "name": "Drawing I",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART125",
+          "name": "Adobe CC Basics",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART130",
+          "name": "Introduction to Graphic Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART142",
+          "name": "Media Experimentation",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART160",
+          "name": "Photography I",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART201",
+          "name": "Art History I",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART202",
+          "name": "Art History II",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART210",
+          "name": "Drawing II",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART212R",
+          "name": "Head Drawing",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART217",
+          "name": "Design and Color II",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART220",
+          "name": "Ceramics I",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART230",
+          "name": "Typography",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART231",
+          "name": "Design Thinking: Inquiry and Innovation",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART235",
+          "name": "Graphic Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART240",
+          "name": "Introduction to Illustration",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART245R",
+          "name": "2D Digital Illustration",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART248R",
+          "name": "Character Animation I",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART250",
+          "name": "Oil Painting I",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART251",
+          "name": "Watercolor I",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART260",
+          "name": "Intermediate Photography",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART270",
+          "name": "Printmaking I",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART272",
+          "name": "Introduction to Lithography",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART280",
+          "name": "Sculpture I",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART290R",
+          "name": "Independent Study",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART297R",
+          "name": "Art Seminar",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART300",
+          "name": "Research/Writing in Art History",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART301",
+          "name": "Art of Ancient Near East & Egypt",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART302",
+          "name": "Greek and Roman Art",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART303",
+          "name": "Medieval Art",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART304",
+          "name": "Global Art",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART305",
+          "name": "Meso-American Art",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART306",
+          "name": "History of Design & Illustration",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART307",
+          "name": "History of Photography",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART308",
+          "name": "American Art",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART309",
+          "name": "Contemporary Art and Theory",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART310",
+          "name": "Expressive Drawing",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART311",
+          "name": "Layout and Story",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART312R",
+          "name": "Figure Drawing",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART313",
+          "name": "Art Education Theory and Contemporary Practice",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART314",
+          "name": "Secondary Art Methods I",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART316",
+          "name": "Elementary Art Methods",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART320",
+          "name": "Ceramics II",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART330R",
+          "name": "Conceptual Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART331R",
+          "name": "Information Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART332R",
+          "name": "User Interface Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART333R",
+          "name": "Surface & Pattern Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART335R",
+          "name": "Identity Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART336",
+          "name": "Book Arts",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART337R",
+          "name": "User Experience Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART341R",
+          "name": "Narrative Illustration",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART342R",
+          "name": "Entertainment Illustration I",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART345R",
+          "name": "3D Digital Illustration",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART348R",
+          "name": "Character Animation II",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART350R",
+          "name": "Painting II",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART351R",
+          "name": "Watercolor II",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART355R",
+          "name": "Life Painting",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART356R",
+          "name": "Landscape Painting",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART357R",
+          "name": "Painting Methodologies",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART361",
+          "name": "Advanced Photography",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART362",
+          "name": "Introduction to Studio Lighting",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART364R",
+          "name": "Advanced Black/White Photography",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART365R",
+          "name": "Photographic Projects",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART366R",
+          "name": "Commercial Photography",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART370",
+          "name": "Printmaking II",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART380R",
+          "name": "Sculpture Medium and Methodology",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART392",
+          "name": "Business for the Professional Artist",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART395A",
+          "name": "Travel Study in the Arts (A)",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART395B",
+          "name": "Travel Study in the Arts (B)",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART395C",
+          "name": "Travel Study in the Arts (C)",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART395D",
+          "name": "Travel Study in the Arts (D)",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART395R",
+          "name": "Travel Study in the Arts",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART396R",
+          "name": "Special Topics",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART397R",
+          "name": "Web Portfolio",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART401",
+          "name": "Renaissance Art",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART402",
+          "name": "Baroque Art",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART403",
+          "name": "Nineteenth Century Art",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART404",
+          "name": "Modern and Contemporary Art and Theory",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART405R",
+          "name": "Special Topics in Art History",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART410R",
+          "name": "Expressive Drawing 2",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART412R",
+          "name": "Advanced Figure Drawing",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART414",
+          "name": "Secondary Art Methods II",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART420R",
+          "name": "Ceramics III",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART430R",
+          "name": "Sequential Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART432R",
+          "name": "Design Thinking: Customer Experience",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART433R",
+          "name": "Design Thinking: Research and Remote Collaboration",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART434R",
+          "name": "Design Thinking: Agile Product Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART435R",
+          "name": "Three-Dimensional Graphic Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART436R",
+          "name": "Motion Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART437R",
+          "name": "Advanced Typography",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART441R",
+          "name": "Advanced Illustration",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART442R",
+          "name": "Illustration Capstone",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART450R",
+          "name": "Advanced Painting",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART456R",
+          "name": "Advanced Landscape Painting",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART460R",
+          "name": "Portrait Photography",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART462R",
+          "name": "Historic Photographic Processes",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART463R",
+          "name": "Documentary Photography",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART470R",
+          "name": "Printmaking III",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART475R",
+          "name": "Advanced Book Arts",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART480R",
+          "name": "Figure Sculpture",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART491R",
+          "name": "Independent Study II",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART492",
+          "name": "Portfolio Capstone",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART495A",
+          "name": "BFA Project Ceramics",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART495B",
+          "name": "BFA Project Drawing",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART495C",
+          "name": "Professional Projects",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART495D",
+          "name": "BFA Project Illustration",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART495E",
+          "name": "BFA Project Painting",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART495F",
+          "name": "BFA Project Photography",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART495G",
+          "name": "BFA Project Printmaking",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART495H",
+          "name": "BFA Project Sculpture",
+          "rating": []
+        },
+        {
+      
+          "department": "Art",
+          "code": "ART498R",
+          "name": "Internship in the Arts",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO125",
+          "name": "Automotive Ownership and Maintenance",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO131",
+          "name": "Electrical Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO131L",
+          "name": "Electrical Systems Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO132",
+          "name": "Engine Performance",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO132L",
+          "name": "Engine Performance Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO155",
+          "name": "Chassis Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO155L",
+          "name": "Chassis Systems Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO200",
+          "name": "Career Planning and Networking",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO201",
+          "name": "Drivetrains",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO201L",
+          "name": "Drivetrains Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO223",
+          "name": "Climate Control",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO223L",
+          "name": "Climate Control Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO231",
+          "name": "Vehicle Electronics",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO231L",
+          "name": "Vehicle Electronics Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO232",
+          "name": "Engine Management Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO232L",
+          "name": "Engine Management Systems Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO290R",
+          "name": "Special Projects",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO298R",
+          "name": "Automotive Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO351",
+          "name": "Internal Combustion Engines",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO351L",
+          "name": "Internal Combustion Engine Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO366",
+          "name": "Automatic Transmissions",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO366L",
+          "name": "Automatic Transmissions Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO398R",
+          "name": "Automotive Professional Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO481",
+          "name": "Drivability and Diagnostics",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO481L",
+          "name": "Drivability and Diagnostics Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO482",
+          "name": "Data Acquisition and Analysis",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO482L",
+          "name": "Data Acquisition and Analysis Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO483",
+          "name": "Hybrid and Electric Vehicle Technology",
+          "rating": []
+        },
+        {
+      
+          "department": "Automotive",
+          "code": "AUTO483L",
+          "name": "Hybrid and Electric Vehicle Technology Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO101",
+          "name": "Introductory Biology for Allied Health",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO180",
+          "name": "Introduction to Biology I",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO180L",
+          "name": "Introduction to Biology I Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO181",
+          "name": "Introduction to Biology II",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO181L",
+          "name": "Introduction to Biology II Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO182",
+          "name": "Introduction to Biology III",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO198",
+          "name": "Wildlife & Natural Resource Career Orientation",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO199",
+          "name": "Biology Orientation",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO202",
+          "name": "Natural Resource Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO204",
+          "name": "Invert/Vertebrate Zoology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO208",
+          "name": "General Botany",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO209",
+          "name": "An Evolutionary Survey of Plants",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO210",
+          "name": "Plant Systematics",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO221",
+          "name": "General Microbiology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO222",
+          "name": "General Microbiology Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO225",
+          "name": "Range Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO230",
+          "name": "Essentials of Human Anatomy & Physiology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO240",
+          "name": "Neurobiology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO250",
+          "name": "Environmental Biology with Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO250L",
+          "name": "Environmental Biology Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO252",
+          "name": "Range Plant Taxonomy",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO264",
+          "name": "Human Anatomy & Physiology I",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO264L",
+          "name": "Human Anatomy & Physiology I Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO265",
+          "name": "Human Anatomy & Physiology II",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO265L",
+          "name": "Human Anatomy & Physiology II Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO295",
+          "name": "Pharmacology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO302",
+          "name": "Ecology I",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO303",
+          "name": "Ecology II",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO311",
+          "name": "Scientific Writing and Communication",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO312",
+          "name": "Invertebrate Zoology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO314",
+          "name": "Marine Biology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO321",
+          "name": "Biology of Microorganisms",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO325",
+          "name": "Range Ecology Systems Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO331",
+          "name": "General Entomology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO351",
+          "name": "Principles Wildlife Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO352",
+          "name": "Rangelands and Range Plants",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO360",
+          "name": "Principles of Fish Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO362",
+          "name": "Stream Ecology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO370",
+          "name": "Conservation Genetics",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO375",
+          "name": "Genetics and Molecular Biology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO376",
+          "name": "Cell and Molecular Biology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO377",
+          "name": "Techniques in Biochemistry Molecular Biology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO378",
+          "name": "Molecular Lab Pedagogy",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO380",
+          "name": "Histology with Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO381",
+          "name": "Pathophysiology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO382",
+          "name": "Bioinformatics",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO383",
+          "name": "Human Embryology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO392",
+          "name": "Range and Wildland Restoration",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO393",
+          "name": "Range and Wildland Plant Ecology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO398",
+          "name": "Occupational Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO401R",
+          "name": "Readings in Biology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO408",
+          "name": "Advanced Botany",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO410",
+          "name": "Immunology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO411",
+          "name": "Medical Microbiology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO412",
+          "name": "Virology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO413",
+          "name": "Advanced Microbiology Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO420",
+          "name": "Principles of Limnology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO423",
+          "name": "Natural Resources Law & Policy",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO430",
+          "name": "Advanced Pharmacology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO445",
+          "name": "Ichthyology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO446",
+          "name": "Ornithology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO447",
+          "name": "Mammalogy",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO448",
+          "name": "Insect Systematics",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO455",
+          "name": "Rangeland Inventory/Analysis Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO460",
+          "name": "Human Anatomy with Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO461",
+          "name": "Principles of Physiology",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO462",
+          "name": "Head and Neck Anatomy",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO466",
+          "name": "Rangeland Inventory and Improvement",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO475",
+          "name": "Evolutionary Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO485",
+          "name": "Advanced Neuroscience",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO490",
+          "name": "Special Problems",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO497",
+          "name": "Senior Seminar",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO498R",
+          "name": "Research and Occupational Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Biology",
+          "code": "BIO499R",
+          "name": "Undergraduate Research",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Analytics/Analysis",
+          "code": "BA211",
+          "name": "Business Fundamentals",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Analytics/Analysis",
+          "code": "BA215",
+          "name": "Spreadsheet Analysis for Business",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Analytics/Analysis",
+          "code": "BA315",
+          "name": "Business Analytics",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Analytics/Analysis",
+          "code": "BA398R",
+          "name": "Business Analytics Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Analytics/Analysis",
+          "code": "BA399R",
+          "name": "Special Topics in Business Analytics",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS100",
+          "name": "Business Exploration and Orientation",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS101",
+          "name": "Introduction to Business",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS102",
+          "name": "Exploration of Business and Communication Professions",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS110",
+          "name": "Introduction to Entrepreneurship",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS115",
+          "name": "Business Applications",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS129",
+          "name": "Office Procedures",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS180",
+          "name": "The Cycle of Cash",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS200",
+          "name": "Small Business Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS210",
+          "name": "Small Business Creation",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS240",
+          "name": "Word Processing I",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS241",
+          "name": "Word Processing II",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS270",
+          "name": "Human Resource Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS298R",
+          "name": "Beginning Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS300",
+          "name": "IBC Business Basics",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS301",
+          "name": "Advanced Writing in Professional Contexts",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS302",
+          "name": "IBC Business Leadership",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS310",
+          "name": "Launching New Ventures",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS321",
+          "name": "Organizational Leadership",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS374",
+          "name": "Social Innovation",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS375",
+          "name": "Business Law",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS380",
+          "name": "International Business",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS398R",
+          "name": "Advanced Business Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS399R",
+          "name": "Special Projects",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS410",
+          "name": "Entrepreneurial Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Business Management",
+          "code": "BUS499",
+          "name": "Principles of Business Strategy",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM101",
+          "name": "Introductory Chemistry",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM101L",
+          "name": "Introductory Chemistry Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM105",
+          "name": "General Chemistry I",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM105L",
+          "name": "General Chemistry Laboratory I",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM106",
+          "name": "General Chemistry II",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM106L",
+          "name": "General Chemistry Laboratory II",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM220",
+          "name": "Quantitative Analysis",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM220L",
+          "name": "Quantitative Analysis Laboratory",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM250",
+          "name": "Introductory Organic and Biochemistry",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM250L",
+          "name": "Introductory Organic & Biochemistry Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM290R",
+          "name": "Special Topics in Chemistry",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM351",
+          "name": "Organic Chemistry I",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM351L",
+          "name": "Organic Chemistry  Laboratory I",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM352",
+          "name": "Organic Chemistry II",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM352L",
+          "name": "Organic Chemistry Laboratory II",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM391",
+          "name": "Technical Writing in Chemical Literature",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM420",
+          "name": "Instrumental Analysis",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM421",
+          "name": "Instrumental Analysis Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM461",
+          "name": "Physical Chemistry",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM462",
+          "name": "Physical Chemistry II",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM464",
+          "name": "Physical Chemistry Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM468",
+          "name": "Physical Biochemistry",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM470",
+          "name": "Inorganic Chemistry",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM471",
+          "name": "Advanced Laboratory",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM481",
+          "name": "Biochemistry I",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM481L",
+          "name": "Advanced Biochemistry Laboratory",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM482",
+          "name": "Biochemistry II",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM485",
+          "name": "Introduction to Biochemistry Literature",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM490R",
+          "name": "Advanced Topics in Chemistry",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM492R",
+          "name": "Student Research",
+          "rating": []
+        },
+        {
+      
+          "department": "Chemistry",
+          "code": "CHEM498",
+          "name": "Chemistry/Biochemistry Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD120",
+          "name": "Infants and Toddlers",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD150",
+          "name": "Foundations of Early Childhood",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD210",
+          "name": "Child Development",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD230",
+          "name": "Curriculum for Young Children",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD232",
+          "name": "Language and Literacy",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD234",
+          "name": "Fostering Development in Natural Settings",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD295",
+          "name": "Overview of the Profession",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD300",
+          "name": "Infant and Toddler Development",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD310",
+          "name": "Early and Middle Child Development",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD320",
+          "name": "Adolescent Development",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD330",
+          "name": "Parent Education",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD345A",
+          "name": "School-Age Fundamental Principles",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD345B",
+          "name": "School Age Applied Principles",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD345L",
+          "name": "School-Age Lab Experience",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD350",
+          "name": "Observation and Assessment",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD390R",
+          "name": "Special Topics in Child Studies",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD395",
+          "name": "Professional Skills and Responsibilities",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD400",
+          "name": "Research Methods",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD440",
+          "name": "Program Administration",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD495",
+          "name": "Launching into the Profession",
+          "rating": []
+        },
+        {
+      
+          "department": "Child",
+          "code": "CHILD498R",
+          "name": "Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Chinese",
+          "code": "CHIN101",
+          "name": "Beginning Mandarin I",
+          "rating": []
+        },
+        {
+      
+          "department": "Chinese",
+          "code": "CHIN102",
+          "name": "Beginning Mandarin II",
+          "rating": []
+        },
+        {
+      
+          "department": "Chinese",
+          "code": "CHIN201",
+          "name": "Intermediate Mandarin I",
+          "rating": []
+        },
+        {
+      
+          "department": "Chinese",
+          "code": "CHIN202",
+          "name": "Intermediate Mandarin II",
+          "rating": []
+        },
+        {
+      
+          "department": "Chinese",
+          "code": "CHIN301",
+          "name": "Advanced Mandarin I",
+          "rating": []
+        },
+        {
+      
+          "department": "Chinese",
+          "code": "CHIN302",
+          "name": "Advanced Mandarin II",
+          "rating": []
+        },
+        {
+      
+          "department": "Chinese",
+          "code": "CHIN345",
+          "name": "Chinese Culture",
+          "rating": []
+        },
+        {
+      
+          "department": "Chinese",
+          "code": "CHIN347",
+          "name": "Topics in Advanced Chinese",
+          "rating": []
+        },
+        {
+      
+          "department": "Chinese",
+          "code": "CHIN377",
+          "name": "Chinese Teaching Methods",
+          "rating": []
+        },
+        {
+      
+          "department": "Chinese",
+          "code": "CHIN401",
+          "name": "Advanced Topics in Mandarin Chinese I",
+          "rating": []
+        },
+        {
+      
+          "department": "Chinese",
+          "code": "CHIN402",
+          "name": "Advanced Topics in Mandarin Chinese II",
+          "rating": []
+        },
+        {
+      
+          "department": "Chinese",
+          "code": "CHIN490R",
+          "name": "Independent Study in Chinese",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE250",
+          "name": "Civil Engineering Materials Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE250L",
+          "name": "Civil Engineering Materials Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE321",
+          "name": "Structural Analysis",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE341",
+          "name": "Elementary Soil Mechanics",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE351",
+          "name": "Environmental Engineering",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE360",
+          "name": "Fluid Mechanics for Civil Engineers",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE361",
+          "name": "Introduction to Transport Engineering",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE370",
+          "name": "Hydrology",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE421",
+          "name": "Structural Steel Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE424",
+          "name": "Reinforced Concrete Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE429",
+          "name": "Design of Wood Structures",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE433",
+          "name": "Hydraulic Engineering",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE441",
+          "name": "Geotechnical Engineering Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE451",
+          "name": "Water and Wastewater Treatment Process Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE461",
+          "name": "Geometric Design of Highways",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE470",
+          "name": "Civil Engineering Practice and Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE490R",
+          "name": "Special Problems in Civil Engineering",
+          "rating": []
+        },
+        {
+      
+          "department": "Civil Engineering",
+          "code": "CE495R",
+          "name": "Special Topics in Civil Engineering",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST100",
+          "name": "Basic Woodworking",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST120",
+          "name": "Framing Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST200",
+          "name": "Furniture Making",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST210",
+          "name": "Finishing Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST221",
+          "name": "Construction Safety",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST235",
+          "name": "Building Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST260",
+          "name": "Statics and Strength of Materials",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST285",
+          "name": "Construction Estimating",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST290R",
+          "name": "Special Problems",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST291",
+          "name": "Field Scheduling",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST298",
+          "name": "Beginning Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST300",
+          "name": "Cabinetmaking",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST311",
+          "name": "Construction BIM",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST335",
+          "name": "Design of Construction Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST340",
+          "name": "Land Surveying",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST350",
+          "name": "Soils",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST355",
+          "name": "Construction Materials",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST380",
+          "name": "Project Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST391",
+          "name": "Construction Scheduling",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST400",
+          "name": "Advanced Estimating and Bidding",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST430",
+          "name": "Construction Law",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST498",
+          "name": "Construction Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Contruction",
+          "code": "CONST499",
+          "name": "Capstone: Construction Principles",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT101A",
+          "name": "Discovering Computing",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT101B",
+          "name": "Discover Computing",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT101C",
+          "name": "Discovering Computing",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT110",
+          "name": "Introduction to Excel",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT111",
+          "name": "Introduction to Databases",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT112",
+          "name": "Introduction to Linux",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT151",
+          "name": "Operating System Fundamentals",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT160",
+          "name": "Introduction to Programming",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT171",
+          "name": "Introduction to Cybersecurity",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT225",
+          "name": "Database Design & Development",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT240",
+          "name": "Networking",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT241",
+          "name": "Network Design I",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT260",
+          "name": "Object Oriented Programming",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT262",
+          "name": "IT Management and DevOps",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT270",
+          "name": "Systems Security I",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT295",
+          "name": "Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT298R",
+          "name": "Introductory Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT325",
+          "name": "Database Programming",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT326",
+          "name": "Database Administration",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT327",
+          "name": "Data Warehousing",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT341",
+          "name": "Network Design II",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT345",
+          "name": "Wireless Networking",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT352",
+          "name": "Operating Systems I",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT353",
+          "name": "Operating Systems II",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT354",
+          "name": "Virtualized Enterprise Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT360",
+          "name": "Object Oriented Development",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT361",
+          "name": "Advanced Scripting",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT365",
+          "name": ".NET Software Development",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT380",
+          "name": "Project Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT381",
+          "name": "Business Intel and Analytics",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT399R",
+          "name": "Introductory Special Topics",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT470",
+          "name": "Systems Security II",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT490",
+          "name": "Senior Project",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT495",
+          "name": "Senior Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT498",
+          "name": "Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CIT499R",
+          "name": "Special Topics",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CITBC102",
+          "name": "Hardware Technician",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CITBC125",
+          "name": "Windows Client",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Information Technology",
+          "code": "CITBC150",
+          "name": "Introduction to Networking",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CS101",
+          "name": "Introduction to Programming",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CS124",
+          "name": "Introduction to Software Development",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CS165",
+          "name": "Object-Oriented Software Development",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CS213",
+          "name": "Web Engineering I",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CS225",
+          "name": "Database Design & Development",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CS235",
+          "name": "Data Structures",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CS241",
+          "name": "Survey Object-Oriented Programming/Data Structures",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CS246",
+          "name": "Software Design and Development",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CS308",
+          "name": "Technical Communication",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CS345",
+          "name": "Operating Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CS364",
+          "name": "Software Engineering I",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CS416",
+          "name": "Software Engineering II",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CS432",
+          "name": "Software Engineering III",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE100",
+          "name": "Introduction to Computing",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE110",
+          "name": "Programming Building Blocks",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE111",
+          "name": "Programming with Functions",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE120A",
+          "name": "R Language",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE120B",
+          "name": "Python Language",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE120C",
+          "name": "Visual Basic for Applications Language",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE121A",
+          "name": "Clojure Language",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE121B",
+          "name": "JavaScript Language",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE121C",
+          "name": "C Language",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE121E",
+          "name": "Erlang Language",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE130",
+          "name": "Algorithm Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE131",
+          "name": "Modularization Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE170",
+          "name": "Introduction to Technical Teamwork",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE180",
+          "name": "Algorithmic Thinking",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE210",
+          "name": "Programming with Classes",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE212",
+          "name": "Programming with Data Structures",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE220C",
+          "name": "C++ Language",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE222A",
+          "name": "Swift Language",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE222B",
+          "name": "Kotlin Language",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE230",
+          "name": "Encapsulation Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE231",
+          "name": "Inheritance Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE232",
+          "name": "Designing Data Structures",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE251",
+          "name": "Parallelism and Concurrency",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE270",
+          "name": "Software Testing",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE272",
+          "name": "Software Lifecycle Models",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE280",
+          "name": "Discrete Mathematics",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE290R",
+          "name": "Special Topics",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE310",
+          "name": "Applied Programming",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE320A",
+          "name": "Mobile Programming",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE331",
+          "name": "Design Patterns",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE340",
+          "name": "Web Backend Development I",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE341",
+          "name": "Web Backend Development II",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE352",
+          "name": "Operating System Services",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE353",
+          "name": "Computer Graphics",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE353",
+          "name": "Computer Graphics",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE353",
+          "name": "Computer Graphics",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE354",
+          "name": "Computer Networks",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE372",
+          "name": "Requirements Elicitation",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE381",
+          "name": "Algorithms and Complexity",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE382",
+          "name": "Patterns in Functional Programming",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE398",
+          "name": "Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE430",
+          "name": "Architectural Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE450",
+          "name": "Machine Learning",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE453",
+          "name": "Computer Security",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE471",
+          "name": "User Interface Evaluation & Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE473",
+          "name": "Process Improvement",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE474",
+          "name": "Quality Assurance",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE480",
+          "name": "Computational Theory",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE481",
+          "name": "Massively Parallel Computation",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE490R",
+          "name": "Special Topics",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE498R",
+          "name": "Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE499",
+          "name": "Senior Project",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE499A",
+          "name": "Senior Project\t Part A",
+          "rating": []
+        },
+        {
+      
+          "department": "Computer Science",
+          "code": "CSE499B",
+          "name": "Senior Project\t Part B",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE103",
+          "name": "Introduction to Dance Major and Professions",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE131",
+          "name": "Jazz Dance\t Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE135",
+          "name": "Tap Dance\t Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE140",
+          "name": "Modern Dance\t Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE170",
+          "name": "World Dance\t Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE171",
+          "name": "Clog Dance\t Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE180M",
+          "name": "Social Dance\t Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE180W",
+          "name": "Social Dance\t Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE181M",
+          "name": "Country West Social Dance\t Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE181W",
+          "name": "Country West Social Dance\t Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE184M",
+          "name": "International Standard Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE184W",
+          "name": "International Standard Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE185M",
+          "name": "International Latin Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE185W",
+          "name": "International Latin Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE190",
+          "name": "Ballet\t Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE231R",
+          "name": "Jazz Dance Intermediate",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE235R",
+          "name": "Tap Dance Technique",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE240R",
+          "name": "Modern Dance Technique I",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE242",
+          "name": "Improvisation and Choreography",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE270R",
+          "name": "World Dance Technique 1",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE271R",
+          "name": "Clog Dance Technique I",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE280M",
+          "name": "Social Dance Intermediate I",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE280W",
+          "name": "Social Dance Intermediate I",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE281M",
+          "name": "Social Dance Intermediate II",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE281W",
+          "name": "Social Dance Intermediate II",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE284M",
+          "name": "International Standard Technique I",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE284W",
+          "name": "International Standard Technique I",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE285M",
+          "name": "International Latin Technique I",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE285W",
+          "name": "International Latin Technique I",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE290R",
+          "name": "Ballet Technique I",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE295",
+          "name": "Dance Kinesiology I",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE299R",
+          "name": "Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE310R",
+          "name": "Conditioning for Dancers",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE331R",
+          "name": "Jazz Dance Advanced",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE340R",
+          "name": "Modern Dance Technique II",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE342R",
+          "name": "Special Topics in Dance",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE350",
+          "name": "Dance Seminar",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE355",
+          "name": "Dance Production and Technology",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE356",
+          "name": "Philosophy and Technique of Teaching Dance",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE357",
+          "name": "Teaching Child Dance and Studio Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE358",
+          "name": "Teaching Techniques of Social Dance",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE371R",
+          "name": "Clog Dance Technique 2",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE384R",
+          "name": "International Standard Technique II",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE385R",
+          "name": "International Latin Technique II",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE390R",
+          "name": "Ballet Technique II",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE396R",
+          "name": "The Art of Yoga and Meditation",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE399R",
+          "name": "Research and Creative Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE402",
+          "name": "History of Dance",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE403",
+          "name": "Senior Capstone Project",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE440R",
+          "name": "Modern Dance Technique III",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE442R",
+          "name": "Choreographic Explorations",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE443R",
+          "name": "Advanced Technique and Somatics",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE458R",
+          "name": "Teach Technique of Social Dance\t Advanced",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE478R",
+          "name": "Dance Alliance",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE484R",
+          "name": "Ballroom Technique 3",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE488R",
+          "name": "Collegiate Dancers",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE495",
+          "name": "Dance Kinesiology II",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE496R",
+          "name": "Somatics",
+          "rating": []
+        },
+        {
+      
+          "department": "Dance",
+          "code": "DANCE498R",
+          "name": "Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Data Science",
+          "code": "DS150",
+          "name": "Data Intuition and Insight",
+          "rating": []
+        },
+        {
+      
+          "department": "Data Science",
+          "code": "DS250",
+          "name": "Data Science Programming",
+          "rating": []
+        },
+        {
+      
+          "department": "Data Science",
+          "code": "DS295R",
+          "name": "Special Topics in Data Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Data Science",
+          "code": "DS350",
+          "name": "Data Wrangling and Visualization",
+          "rating": []
+        },
+        {
+      
+          "department": "Data Science",
+          "code": "DS460",
+          "name": "Big Data Programming & Analytics",
+          "rating": []
+        },
+        {
+      
+          "department": "Data Science",
+          "code": "DS498R",
+          "name": "Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Data Science",
+          "code": "DS499",
+          "name": "Senior Project in Data Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Early Childhood Development",
+          "code": "ECD350A",
+          "name": "Early Childhood Development: Toddler Fundamental Principles",
+          "rating": []
+        },
+        {
+      
+          "department": "Early Childhood Development",
+          "code": "ECD350B",
+          "name": "Early Childhood Development: Toddler Applied Principles",
+          "rating": []
+        },
+        {
+      
+          "department": "Early Childhood Development",
+          "code": "ECD350L",
+          "name": "Early Childhood Development: Toddler Lab Experience",
+          "rating": []
+        },
+        {
+      
+          "department": "Early Childhood Development",
+          "code": "ECD360A",
+          "name": "Early Childhood Development: Preschool Fundamental Principles",
+          "rating": []
+        },
+        {
+      
+          "department": "Early Childhood Development",
+          "code": "ECD360B",
+          "name": "Early Childhood Development: Preschool Applied Principles",
+          "rating": []
+        },
+        {
+      
+          "department": "Early Childhood Development",
+          "code": "ECD360L",
+          "name": "Early Childhood Development: Preschool Lab Experience",
+          "rating": []
+        },
+        {
+      
+          "department": "Early Childhood Development",
+          "code": "ECD370",
+          "name": "Early Childhood Development: Teaching Preschool",
+          "rating": []
+        },
+        {
+      
+          "department": "Early Childhood Development",
+          "code": "ECD370L",
+          "name": "Early Childhood Development: Teaching Preschool Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Early Childhood Development",
+          "code": "ECD380",
+          "name": "Early Childhood Development: Program Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON150",
+          "name": "Economic Principles and Problems-Micro",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON151",
+          "name": "Economic Principles and Problems-Macro",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON201",
+          "name": "Professional Exploration and Orientation",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON215",
+          "name": "Quantitative Methods",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON255",
+          "name": "Financial Analytics",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON278",
+          "name": "Statistics for Economists",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON298R",
+          "name": "Beginning Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON300",
+          "name": "Managerial Economics",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON330",
+          "name": "Economic Thought and History",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON353",
+          "name": "Money and Banking",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON355",
+          "name": "Investment Analysis",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON357",
+          "name": "Environmental and Natural Resource Economics",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON358",
+          "name": "International Economics",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON365",
+          "name": "Health Economics",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON380",
+          "name": "Intermediate Microeconomics",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON381",
+          "name": "Intermediate Macroeconomics",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON388",
+          "name": "Introduction to Econometrics",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON390R",
+          "name": "Special Projects",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON398",
+          "name": "Professional Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON440",
+          "name": "Law and Economics",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON450",
+          "name": "Development Economics",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON455",
+          "name": "Financial Economics",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON463",
+          "name": "Labor Economics",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON475",
+          "name": "Public Economics",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON476",
+          "name": "Industrial Organization",
+          "rating": []
+        },
+        {
+      
+          "department": "Economics",
+          "code": "ECON499",
+          "name": "Senior Capstone",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED200",
+          "name": "Teaching as a Profession",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED206",
+          "name": "Teaching and Learning Technologies",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED210",
+          "name": "Introduction to Online Teaching",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED211",
+          "name": "Technology for the 21st Century Classroom",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED241",
+          "name": "Elementary Early Field Experience",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED242",
+          "name": "Motivation and Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED245",
+          "name": "Early Field Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED246",
+          "name": "Elementary Education Motivation and Classroom Leadership",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED304",
+          "name": "Educational Psychology and Human Development",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED341",
+          "name": "Elementary Art Methods",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED342",
+          "name": "Elementary Music Methods",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED344",
+          "name": "Idaho Comprehensive Literacy #1",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED345",
+          "name": "Idaho Comprehensive Literacy #2",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED346",
+          "name": "Literacy Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED346E",
+          "name": "Elementary Literacy Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED347",
+          "name": "Middle School Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED348",
+          "name": "Health/PE Methods Elementary Teachers",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED349",
+          "name": "ELED PE\t Art\t and Music Methods",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED350",
+          "name": "Psycholinguistics of Reading",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED361",
+          "name": "Principles of Teaching and Assessment",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED405",
+          "name": "Elementary STEM Methods 1",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED406",
+          "name": "STEM Methods",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED409R",
+          "name": "Independent Readings & Projects",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED420R",
+          "name": "Online Endorsement Supervision",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED441",
+          "name": "Language Arts Methods",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED444",
+          "name": "Elementary Social Studies Methods",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED448",
+          "name": "Assessment and Evaluation in Education",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED449",
+          "name": "Elementary Senior Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED454",
+          "name": "Reading Diagnosis & Intervention Seminar",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED455",
+          "name": "Reading Diagnosis & Intervention Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED461",
+          "name": "Content Area Reading and Writing",
+          "rating": []
+        },
+        {
+      
+          "department": "Education",
+          "code": "ED492",
+          "name": "Student Teaching",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN101",
+          "name": "Introduction to Electrical and Computer Engineering",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN106",
+          "name": "Computer Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN150",
+          "name": "Electric Circuit Analysis I",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN160",
+          "name": "Fundamentals of Digital Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN160L",
+          "name": "Fundamentals of Digital Systems Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN240",
+          "name": "Fundamentals of Digital Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN250",
+          "name": "Electric Circuit Analysis II",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN260",
+          "name": "Microprocessor Based-System Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN324",
+          "name": "Computer Architecture",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN340",
+          "name": "Digital Systems Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN350",
+          "name": "Electronic Devices and Circuits",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN351",
+          "name": "VLSI System Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN361",
+          "name": "Embedded Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN380",
+          "name": "Signals and Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN390",
+          "name": "Electromagnetics",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN397",
+          "name": "Professional Career Preparation",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN398R",
+          "name": "Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN410",
+          "name": "Power Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN420",
+          "name": "RF Circuits",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN430",
+          "name": "Signal and Power Integrity",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN440",
+          "name": "Data and Computer Communications",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN451",
+          "name": "Semiconductor Process Engineer",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN461",
+          "name": "Advanced Embedded Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN470",
+          "name": "Feedback Control of Dynamic Systems",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN480",
+          "name": "Digital Signal Processing",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN490R",
+          "name": "Special Topics",
+          "rating": []
+        },
+        {
+      
+          "department": "Electrical Engineering",
+          "code": "ECEN499",
+          "name": "Senior Project",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG100",
+          "name": "Reading Comprehension",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG102R",
+          "name": "Reading Assist and Textbook Comprehension",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG106",
+          "name": "Basic Writing",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG106L",
+          "name": "English Language and Basic Writing",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG107",
+          "name": "College Reading",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG108",
+          "name": "English Language Development",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG109",
+          "name": "English Language Development",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG150",
+          "name": "Writing and Reasoning Foundations",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG151",
+          "name": "Introduction to Literature",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG217",
+          "name": "Great Books of the World",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG218",
+          "name": "Creative Writing",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG251",
+          "name": "Fundamentals of Literary Interpretation",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG252",
+          "name": "Fundamentals of Research and Presentation",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG290R",
+          "name": "Special Projects",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG301",
+          "name": "Advanced Writing and Research",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG314",
+          "name": "Advanced Research and Literary Analysis",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG316",
+          "name": "Advanced Writing and Technical Communication",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG318R",
+          "name": "Advanced Creative Writing",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG321",
+          "name": "Technology for Professional Writers",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG325",
+          "name": "Language Theory",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG326",
+          "name": "Editing",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG327",
+          "name": "History of English Language",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG328",
+          "name": "Rhetorical Theory and Application",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG329",
+          "name": "Writing Instruction Methods",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG329L",
+          "name": "Writing Instruction Methods Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG331",
+          "name": "British Literature-Medieval and Renaissance",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG332",
+          "name": "British Literature-18th Century & Romantic",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG333",
+          "name": "British Literature-Victorian and Modern",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG334",
+          "name": "American Literature",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG335",
+          "name": "American Literature",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG336",
+          "name": "British and American Literature",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG350R",
+          "name": "Themes in Literature",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG351",
+          "name": "Fiction",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG352",
+          "name": "Poetry",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG353",
+          "name": "Drama",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG354",
+          "name": "Non-fiction",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG355",
+          "name": "Childrens Literature",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG356",
+          "name": "Young Adult Literature",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG370R",
+          "name": "Major Authors",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG373",
+          "name": "Shakespeare",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG390",
+          "name": "Preparation for Internships and Careers",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG397R",
+          "name": "Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG398R",
+          "name": "English Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG400R",
+          "name": "Genres of Professional Writing",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG418R",
+          "name": "Creative Writing and Publishing",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG430",
+          "name": "Teaching English in Secondary Schools",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG430L",
+          "name": "Teaching English in Secondary Schools Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG440",
+          "name": "Studies in Literary Theory",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG450",
+          "name": "Rhetorical Studies",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG452",
+          "name": "Advanced Professional Writing",
+          "rating": []
+        },
+        {
+      
+          "department": "English",
+          "code": "ENG495",
+          "name": "Senior Writing Seminar",
+          "rating": []
+        },
+        {
+      
+          "department": "English as an International Language",
+          "code": "EIL102R",
+          "name": "Language Assistance for English Language Learners",
+          "rating": []
+        },
+        {
+      
+          "department": "English as an International Language",
+          "code": "EIL170",
+          "name": "English International Language Listening",
+          "rating": []
+        },
+        {
+      
+          "department": "English as an International Language",
+          "code": "EIL171",
+          "name": "English International Language Speaking",
+          "rating": []
+        },
+        {
+      
+          "department": "English as an International Language",
+          "code": "EIL172",
+          "name": "English International Language Reading",
+          "rating": []
+        },
+        {
+      
+          "department": "English as an International Language",
+          "code": "EIL173",
+          "name": "English International Language Writing",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS100",
+          "name": "Aerobic Fitness",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS101",
+          "name": "Water Aerobics",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS111",
+          "name": "Exercise Science Orientation",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS115",
+          "name": "Military Physical Fitness",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS127",
+          "name": "Archery",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS130",
+          "name": "Body Weight Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS160",
+          "name": "Swimming Beginning",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS161",
+          "name": "Swimming Intermediate",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS178",
+          "name": "Weight Training",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS204",
+          "name": "Aerobic Fitness Techniques",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS205",
+          "name": "Intramurals",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS206",
+          "name": "Sports Officiating Football",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS209",
+          "name": "Sports Officiating Volleyball",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS210",
+          "name": "Sports Officiating Basketball",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS264",
+          "name": "Lifeguarding",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS268",
+          "name": "Water Safety Instructor",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS299",
+          "name": "Professional Experience Seminar",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS305",
+          "name": "Health Appraisal and Prescription",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS330",
+          "name": "Fundamentals in Coaching and Sports Psychology",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS349",
+          "name": "Sports Medicine",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS349L",
+          "name": "Sports Medicine Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS355R",
+          "name": "Athletic Training Clinical Experience",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS367",
+          "name": "Lifeguard Instructor",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS368",
+          "name": "Aquatics Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS375",
+          "name": "Exercise Physiology",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS375L",
+          "name": "Exercise Physiology Lab",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS381",
+          "name": "Strength Training Theory and Application",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS386",
+          "name": "Aerobic Exercise in Health and Disease",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS398R",
+          "name": "Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS455",
+          "name": "Exercise Science Selected Topics",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS465",
+          "name": "Advanced Exercise Physiology",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS483",
+          "name": "Sports Law",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS495",
+          "name": "Student Pedagogy and Mentoring I",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS496",
+          "name": "Student Pedagogy and Mentoring II",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS497",
+          "name": "Exercise Physiology Research",
+          "rating": []
+        },
+        {
+      
+          "department": "Exercise and Sports Science",
+          "code": "ESS498",
+          "name": "Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML100",
+          "name": "The Family",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML110",
+          "name": "Marriage Skills",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML120",
+          "name": "Parenting Skills",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML150",
+          "name": "Introduction to Marriage & Family Studies",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML160",
+          "name": "Family Relations",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML200",
+          "name": "Preparation for Marriage",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML220",
+          "name": "Parenting",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML300",
+          "name": "Marriage",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML360",
+          "name": "Family Stress and Coping",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML390R",
+          "name": "Special Topics in Family Studies",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML400",
+          "name": "Family Theories and Dynamics",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML420",
+          "name": "The Helping Relationship",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML430",
+          "name": "Family and Community Relationships",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML445",
+          "name": "Teaching Family Life Education",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML460",
+          "name": "Child and Family Advocacy",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML490R",
+          "name": "Relationship Education Certification",
+          "rating": []
+        },
+        {
+      
+          "department": "Family",
+          "code": "FAML498R",
+          "name": "Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Family History and Genealogy",
+          "code": "FHGEN110",
+          "name": "Family History Research Student Success",
+          "rating": []
+        },
+        {
+      
+          "department": "Family History and Genealogy",
+          "code": "FHGEN120",
+          "name": "Internet and Computer Skills",
+          "rating": []
+        },
+        {
+      
+          "department": "Family History and Genealogy",
+          "code": "FHGEN130",
+          "name": "Paleography",
+          "rating": []
+        },
+        {
+      
+          "department": "Family History and Genealogy",
+          "code": "FHGEN241",
+          "name": "Introduction to Research Methodology",
+          "rating": []
+        },
+        {
+      
+          "department": "Family History and Genealogy",
+          "code": "FHGEN242",
+          "name": "Introduction to Evidence Analysis",
+          "rating": []
+        },
+        {
+      
+          "department": "Family History and Genealogy",
+          "code": "FHGEN340",
+          "name": "Genealogical Writing",
+          "rating": []
+        },
+        {
+      
+          "department": "Family History and Genealogy",
+          "code": "FHGEN351",
+          "name": "U.S. Geographic Specialization",
+          "rating": []
+        },
+        {
+      
+          "department": "Family History and Genealogy",
+          "code": "FHGEN352",
+          "name": "Introduction to Genetic Genealogy",
+          "rating": []
+        },
+        {
+      
+          "department": "Family History and Genealogy",
+          "code": "FHGEN411",
+          "name": "Research Methodology",
+          "rating": []
+        },
+        {
+      
+          "department": "Family History and Genealogy",
+          "code": "FHGEN499R",
+          "name": "Directed Geographic Specialty Research",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS101",
+          "name": "Introduction to  Family and Consumer Sciences",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS110",
+          "name": "Food Safety and Sanitation",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS140",
+          "name": "Introduction to Interior Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS160",
+          "name": "Home and Family Resource Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS205",
+          "name": "Family and Consumer Sciences Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS207",
+          "name": "Apparel Construction I",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS208",
+          "name": "Introduction to Fashion Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS221",
+          "name": "Home Decor Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS235",
+          "name": "Childrens Clothing Design",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS240",
+          "name": "Food Preparation",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS245",
+          "name": "Pattern Making",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS280",
+          "name": "History of Architecture & Interiors",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS290",
+          "name": "CAD Pattern Making",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS307",
+          "name": "Apparel Construction II",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS325",
+          "name": "Fashion History",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS340",
+          "name": "Money Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS345",
+          "name": "Fitting and Alteration",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS351",
+          "name": "Food Service Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS360",
+          "name": "Textile Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS364",
+          "name": "Science of Meal Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS370",
+          "name": "Quantity Food Production and Services",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS380",
+          "name": "Connect Education and Employment",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS400",
+          "name": "Curriculum Development in Occupational Education",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS405",
+          "name": "Teaching Methods for Family and Consumer Science",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS405L",
+          "name": "FCS Teaching Practicum",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS490R",
+          "name": "Special Studies in FCS",
+          "rating": []
+        },
+        {
+      
+          "department": "Family and Consumer Science",
+          "code": "FCS498R",
+          "name": "Internship for FCSE Major",
+          "rating": []
+        },
+        {
+      
+          "department": "Finance",
+          "code": "FIN100",
+          "name": "Introduction to Finance\t Operations and Analytics through Learning Games and Activities",
+          "rating": []
+        },
+        {
+      
+          "department": "Finance",
+          "code": "FIN201",
+          "name": "Introduction to Finance",
+          "rating": []
+        },
+        {
+      
+          "department": "Finance",
+          "code": "FIN301",
+          "name": "Financial Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Finance",
+          "code": "FIN398R",
+          "name": "Business Finance Internship",
+          "rating": []
+        },
+        {
+      
+          "department": "Finance",
+          "code": "FIN399R",
+          "name": "Special Projects",
+          "rating": []
+        },
+        {
+      
+          "department": "Finance",
+          "code": "FIN401",
+          "name": "Advanced Financial Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Finance",
+          "code": "FIN410",
+          "name": "Investments",
+          "rating": []
+        },
+        {
+      
+          "department": "Finance",
+          "code": "FIN411",
+          "name": "Advanced Financial Modeling",
+          "rating": []
+        },
+        {
+      
+          "department": "Finance",
+          "code": "FIN418",
+          "name": "Financial Planning",
+          "rating": []
+        },
+        {
+      
+          "department": "Finance",
+          "code": "FIN433",
+          "name": "Personal Finance",
+          "rating": []
+        },
+        {
+      
+          "department": "Finance",
+          "code": "FIN475",
+          "name": "Financing New Ventures",
+          "rating": []
+        },
+        {
+      
+          "department": "Finance",
+          "code": "FIN497A",
+          "name": "Risk Management",
+          "rating": []
+        },
+        {
+      
+          "department": "Finance",
+          "code": "FIN497B",
+          "name": "Estate Planning",
+          "rating": []
+        }
+      ]
+    }  
+  ]  
+}
