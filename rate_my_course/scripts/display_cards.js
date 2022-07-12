@@ -14,17 +14,18 @@ async function getData(requestURL) {
     const data = await response.json();
 
     const university = data["university"];
-    // console.log(university);
 
-    // add an if statement that only matches the university name and course code
-    // if the university name and course code match the JSON data, then display the data
-
+    // Loop through each university. 
     university.forEach((university) => {
-      if (university.name === universityName) {
-        university.courses.forEach((course) => {
-          if (course.code == courseCode) {
-            course.rating.forEach((rating) => {
-              displayCards(rating);
+
+        // If the university name matches the search query, then loop through all courses.
+        if (university.name === universityName) {
+            university.courses.forEach((course) => {
+
+            // If the course code matches the search query, then loop through all ratings.
+            if (course.code == courseCode) {
+                course.rating.forEach((rating) => {
+                    displayCards(rating);
             });
           }
         });
@@ -40,7 +41,7 @@ function displayCards(rating) {
   let card = document.createElement("div");
   card.className = "card";
 
-  // Create overall rating h3.
+  // Overall rating.
   let overallRating = document.createElement("h3");
   overallRating.textContent = `Overall Rating: ${rating.overall} / 5`;
   card.appendChild(overallRating);
