@@ -2,16 +2,12 @@
 
 #### Sources
 * [tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j)
-* 
-
 
 #### Files and Extendsions to Install
 * Django (both pip install and grab extension)
 * djangorestframework (pip install)
 * ES7+ React (extension)
 * JavaScript (ES6) (extension)
-* 
-
 
 #### Terminal commands start ups
 * django-admin startproject rateMyCourse (one time only but it's to activate it)
@@ -25,10 +21,8 @@
 * python .\manage.py makemigrations (only use when making change to model or make a change to database)
 * python .\manage.py migrate
 
-### Run the serve
+### Run the server
 * python .\manage.py runserver
-
-
 
 ### Setting up react
 * [Watch this video](https://www.youtube.com/watch?v=eauREi0vwB0)
@@ -45,7 +39,7 @@
 
 ### Template 
 * template (basic webpage where django takes over)
-* 
+
 ***The template is here so we are able to render it and where react will take control of***
 
 ### runing the react
