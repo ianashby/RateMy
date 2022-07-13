@@ -30,8 +30,8 @@ Rate My Course is a online platform for students to research and rate courses fo
 
 * Cloud database - currently using local 
 * URL - fix url so it will go to a specific course page
-* User Experience Design (UXD)
+* User Experience Design (UXD) - make it responsive for mobile viewing
 
 
 ​
-[readme backend](backend/README.md)
+[Readme Backend](backend/README.md)
